@@ -2,3 +2,5 @@
 For hardcoded secrets
 
 secret=123
+
+key=123
